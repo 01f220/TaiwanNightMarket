@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HC NIGHT MARKET INTRO</string>
+    <string name="action_introduction">簡介</string>
+    <string name="action_food">特色美食</string>
+    <string name="action_traffic">交通資訊</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Sfood">  士林夜市
+        <item>Fried and roasted chicken</item>炭烤香雞排   R.drawable.s1
+        <item>Prince cheese potato</item> 王子起士馬鈴薯  R.drawable. s2
+        <item>Xiao roasted meat roll</item> 蕭記碳烤肉捲  R.drawable.s4
+        <item>Zhong-Cheng-Hao oyster omelet</item> 忠誠號蚵仔煎  R.drawable.s5
+        <item>Fried ice cream</item> 爆炸冰團  R.drawable.s6
+    </string-array>
+
+    <string-array name="Rfood">   饒河夜市
+        <item>Fu-Dao house circle vegetable pancake</item> 福島屋圓圓燒  R.drawable.r1
+        <item>Guo-Jiang Japanese dorayaki</item>  菓匠日式銅鑼燒 R.drawable.r2
+        <item>Bei-Hai shark fin soup</item>  北海魚翅羹 R.drawable.r3
+        <item>Fu-Zhou pepper cakes</item> 福州胡椒餅  R.drawable.r4
+    </string-array>
+
+    <string-array name="Afood">   南機場夜市
+        <item>Lai-Lai dumplings</item> 來來水餃  R.drawable.a2
+        <item>Hao-Chi fried chicken</item> 好吃炸雞  R.drawable.a3
+        <item>Ba-Dong sweet sticky rice ball</item> 八棟圓仔湯R.drawable.a4
+        <item>Wheel pies</item>  紅豆餅 R.drawable.a5
+    </string-array>
+
+    <string-array name="Lfood">   樂華夜市
+        <item>Noname mackerel soup</item> 三鮮焿  R.drawable.l2
+        <item>Zhuang sesame oil chicken</item> 莊家班麻油雞  R.drawable.l3
+        <item>Yang fermented bean sauce fried chicken</item> 楊家豆乳雞  R.drawable.l4
+        <item>Fu-Mei oyster fritter</item> 富美蚵嗲地瓜球  R.drawable.l6
+    </string-array>
+
+</resources>
+
+
